@@ -1,0 +1,33 @@
+Change Net Name : Old Net Name=PA7 New Net Name=OUT17
+Change Net Name : Old Net Name=PB12 New Net Name=OUT7
+Change Net Name : Old Net Name=PB13 New Net Name=OUT8
+Change Net Name : Old Net Name=PB14 New Net Name=OUT9
+Change Net Name : Old Net Name=PB15 New Net Name=OUT10
+Change Net Name : Old Net Name=PC4 New Net Name=OUT18
+Change Net Name : Old Net Name=PD8 New Net Name=OUT11
+Change Net Name : Old Net Name=PD9 New Net Name=OUT12
+Change Net Name : Old Net Name=PD10 New Net Name=OUT13
+Change Net Name : Old Net Name=PD11 New Net Name=OUT14
+Change Net Name : Old Net Name=PD12 New Net Name=OUT15
+Change Net Name : Old Net Name=PD13 New Net Name=OUT16
+Change Net Name : Old Net Name=PE13 New Net Name=OUT5
+Change Net Name : Old Net Name=PE14 New Net Name=OUT6
+Added Pin To Net: NetName=OUT1 Pin=R66-2
+Added Pin To Net: NetName=OUT1 Pin=U36-97
+Added Net: Name=OUT1
+Added Pin To Net: NetName=OUT2 Pin=R76-2
+Added Pin To Net: NetName=OUT2 Pin=U36-96
+Added Net: Name=OUT2
+Added Pin To Net: NetName=OUT3 Pin=R90-2
+Added Pin To Net: NetName=OUT3 Pin=U36-95
+Added Net: Name=OUT3
+Added Pin To Net: NetName=OUT4 Pin=R96-2
+Added Pin To Net: NetName=OUT4 Pin=U36-93
+Added Net: Name=OUT4
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

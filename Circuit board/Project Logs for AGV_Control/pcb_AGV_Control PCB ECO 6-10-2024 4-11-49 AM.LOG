@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetLabel557 Pin=IC8-6
+Removed Pin From Net: NetName=NetLabel557 Pin=R84-1
+Removed Pin From Net: NetName=NetLabel557 Pin=R87-1
+Change Component Designator: OldDesignator=IC8 NewDesignator=IC?
+Change Net Name : Old Net Name=NetIC8_1 New Net Name=NetIC?_1
+Change Net Name : Old Net Name=NetIC8_7 New Net Name=NetIC?_7
+Added Pin To Net: NetName=NetLabel599 Pin=IC?-6
+Added Pin To Net: NetName=NetLabel599 Pin=R84-1
+Added Pin To Net: NetName=NetLabel599 Pin=R87-1
+Added Net: Name=NetLabel599
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

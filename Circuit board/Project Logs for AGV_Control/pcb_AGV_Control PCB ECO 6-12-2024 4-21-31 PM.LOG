@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=IN_lidar1 Pin=U36-29
+Added Pin To Net: NetName=IN_lidar2 Pin=U36-30
+Added Pin To Net: NetName=IN_lidar3 Pin=U36-31
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

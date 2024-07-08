@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=TXD0 Pin=P7-1
+Removed Pin From Net: NetName=RXD0 Pin=P7-2
+Removed Pin From Net: NetName=UART2_TX Pin=P7-3
+Removed Pin From Net: NetName=UART2_RX Pin=P7-4
+Added Pin To Net: NetName=RXD0 Pin=P7-1
+Added Pin To Net: NetName=TXD0 Pin=P7-2
+Added Pin To Net: NetName=UART2_RX Pin=P7-3
+Added Pin To Net: NetName=UART2_TX Pin=P7-4
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

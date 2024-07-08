@@ -1,0 +1,10 @@
+Change Component Comment : Designator=R125 Old Comment=100 New Comment=100k
+Change Component Comment : Designator=R126 Old Comment=100 New Comment=100k
+Change Component Comment : Designator=R128 Old Comment=100 New Comment=100k
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

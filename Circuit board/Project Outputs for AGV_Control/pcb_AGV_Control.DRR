@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: pcb_AGV_Control.PcbDoc   6/13/2024  12:20:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : pcb_AGV_Control.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             160       PTH        0.00inch (0.00mm)
+T2      31mil (0.787mm)                                           Round             144       PTH        0.00inch (0.00mm)
+T3      34mil (0.864mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T4      35mil (0.899mm)                                           Round             35        PTH        0.00inch (0.00mm)
+T5      36mil (0.914mm)                                           Round             24        PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T7      50mil (1.27mm)                                            Round             9         PTH        0.00inch (0.00mm)
+T8      55mil (1.4mm)                                             Round             56        PTH        0.00inch (0.00mm)
+T9      138mil (3.5mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              460
+
+Total Processing Time (hh:mm:ss) : 00:00:00
