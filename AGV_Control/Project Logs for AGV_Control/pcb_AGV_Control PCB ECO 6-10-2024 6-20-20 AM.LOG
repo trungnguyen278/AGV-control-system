@@ -1,0 +1,47 @@
+Added Pin To Net: NetName=PA6 Pin=U36-46
+Change Net Name : Old Net Name=PA6 New Net Name=MAX485_EN
+Added Pin To Net: NetName=SWCLK Pin=P4-5
+Added Pin To Net: NetName=SWCLK Pin=U36-76
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=P4-4
+Added Pin To Net: NetName=SWDIO Pin=U36-72
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=UART1_RX Pin=DFPlayer-3
+Added Pin To Net: NetName=UART1_RX Pin=U36-69
+Added Net: Name=UART1_RX
+Added Pin To Net: NetName=UART1_TX Pin=DFPlayer-2
+Added Pin To Net: NetName=UART1_TX Pin=U36-68
+Added Net: Name=UART1_TX
+Added Pin To Net: NetName=UART2_RX Pin=P7-4
+Added Pin To Net: NetName=UART2_RX Pin=U36-26
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=P7-3
+Added Pin To Net: NetName=UART2_TX Pin=U36-25
+Added Net: Name=UART2_TX
+Added Pin To Net: NetName=UART3_RX Pin=IC2-1
+Added Pin To Net: NetName=UART3_RX Pin=R48-2
+Added Pin To Net: NetName=UART3_RX Pin=U36-48
+Added Net: Name=UART3_RX
+Added Pin To Net: NetName=UART3_TX Pin=IC2-4
+Added Pin To Net: NetName=UART3_TX Pin=R135-2
+Added Pin To Net: NetName=UART3_TX Pin=U36-47
+Added Net: Name=UART3_TX
+Added Pin To Net: NetName=UART4_RX Pin=U25-12
+Added Pin To Net: NetName=UART4_RX Pin=U36-79
+Added Net: Name=UART4_RX
+Added Pin To Net: NetName=UART4_TX Pin=U25-11
+Added Pin To Net: NetName=UART4_TX Pin=U36-78
+Added Net: Name=UART4_TX
+Added Pin To Net: NetName=UART5_RX Pin=U25-9
+Added Pin To Net: NetName=UART5_RX Pin=U36-83
+Added Net: Name=UART5_RX
+Added Pin To Net: NetName=UART5_TX Pin=U25-10
+Added Pin To Net: NetName=UART5_TX Pin=U36-80
+Added Net: Name=UART5_TX
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

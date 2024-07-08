@@ -1,0 +1,82 @@
+Added Pin To Net: NetName=NetLabel599 Pin=IC8-6
+Added Pin To Net: NetName=NetLabel599 Pin=R87-1
+Change Net Name : Old Net Name=PC3 New Net Name=IN_lidar3
+Added Pin To Net: NetName=IN1 Pin=R2-2
+Added Pin To Net: NetName=IN1 Pin=U3-4
+Added Pin To Net: NetName=IN1 Pin=U36-1
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=R5-2
+Added Pin To Net: NetName=IN2 Pin=U4-4
+Added Pin To Net: NetName=IN2 Pin=U36-2
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=R14-2
+Added Pin To Net: NetName=IN3 Pin=U7-4
+Added Pin To Net: NetName=IN3 Pin=U36-3
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=R25-2
+Added Pin To Net: NetName=IN4 Pin=U9-4
+Added Pin To Net: NetName=IN4 Pin=U36-4
+Added Net: Name=IN4
+Added Pin To Net: NetName=IN5 Pin=R34-2
+Added Pin To Net: NetName=IN5 Pin=U12-4
+Added Pin To Net: NetName=IN5 Pin=U36-5
+Added Net: Name=IN5
+Added Pin To Net: NetName=IN6 Pin=R45-2
+Added Pin To Net: NetName=IN6 Pin=U14-4
+Added Pin To Net: NetName=IN6 Pin=U36-7
+Added Net: Name=IN6
+Added Pin To Net: NetName=IN7 Pin=R58-2
+Added Pin To Net: NetName=IN7 Pin=U16-4
+Added Pin To Net: NetName=IN7 Pin=U36-8
+Added Net: Name=IN7
+Added Pin To Net: NetName=IN8 Pin=R13-2
+Added Pin To Net: NetName=IN8 Pin=U6-4
+Added Pin To Net: NetName=IN8 Pin=U36-9
+Added Net: Name=IN8
+Added Pin To Net: NetName=IN9 Pin=R26-2
+Added Pin To Net: NetName=IN9 Pin=U10-4
+Added Pin To Net: NetName=IN9 Pin=U36-15
+Added Net: Name=IN9
+Added Pin To Net: NetName=IN10 Pin=R38-2
+Added Pin To Net: NetName=IN10 Pin=U13-4
+Added Pin To Net: NetName=IN10 Pin=U36-16
+Added Net: Name=IN10
+Added Pin To Net: NetName=IN11 Pin=R50-2
+Added Pin To Net: NetName=IN11 Pin=U15-4
+Added Pin To Net: NetName=IN11 Pin=U36-17
+Added Net: Name=IN11
+Added Pin To Net: NetName=IN_lidar1 Pin=R8-2
+Added Pin To Net: NetName=IN_lidar1 Pin=U5-4
+Added Net: Name=IN_lidar1
+Added Pin To Net: NetName=IN_lidar2 Pin=R20-2
+Added Pin To Net: NetName=IN_lidar2 Pin=U8-4
+Added Net: Name=IN_lidar2
+Added Pin To Net: NetName=TIM1_CH1 Pin=*1-5
+Added Pin To Net: NetName=TIM1_CH1 Pin=R11-2
+Added Pin To Net: NetName=TIM1_CH1 Pin=U36-40
+Added Net: Name=TIM1_CH1
+Added Pin To Net: NetName=TIM1_CH2 Pin=*2-5
+Added Pin To Net: NetName=TIM1_CH2 Pin=R23-2
+Added Pin To Net: NetName=TIM1_CH2 Pin=U36-42
+Added Net: Name=TIM1_CH2
+Added Pin To Net: NetName=TIM2_CH1 Pin=*3-5
+Added Pin To Net: NetName=TIM2_CH1 Pin=R36-2
+Added Pin To Net: NetName=TIM2_CH1 Pin=U36-77
+Added Net: Name=TIM2_CH1
+Added Pin To Net: NetName=TIM2_CH2 Pin=*4-5
+Added Pin To Net: NetName=TIM2_CH2 Pin=R47-2
+Added Pin To Net: NetName=TIM2_CH2 Pin=U36-89
+Added Net: Name=TIM2_CH2
+Added Pin To Net: NetName=TIM3_CH1 Pin=R77-2
+Added Pin To Net: NetName=TIM3_CH1 Pin=U36-63
+Added Net: Name=TIM3_CH1
+Added Pin To Net: NetName=TIM3_CH2 Pin=R83-2
+Added Pin To Net: NetName=TIM3_CH2 Pin=U36-64
+Added Net: Name=TIM3_CH2
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker
