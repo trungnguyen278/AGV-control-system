@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=IC8 Old Footprint=DIP8/W0.3 New Footprint=SOP8-PP
-Added Room: Name=sch_AGV_ESP
-Added Room: Name=sch_AGV_Header
-Added Room: Name=sch_AGV_Input
-Added Room: Name=sch_AGV_MCU
-Added Room: Name=sch_AGV_Output
-Added Room: Name=sch_AGV_Power
-Added Room: Name=sch_AGV_Speaker
