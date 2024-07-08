@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=sch_AGV_Communication.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=sch_AGV_Communication.SchDoc|FileName=sch_AGV_Header.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=sch_AGV_Communication.SchDoc|FileName=sch_AGV_Input.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=sch_AGV_Communication.SchDoc|FileName=sch_AGV_MCU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=sch_AGV_Communication.SchDoc|FileName=sch_AGV_Output.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=sch_AGV_Communication.SchDoc|FileName=sch_AGV_Power.SchDoc|SheetNumber=1

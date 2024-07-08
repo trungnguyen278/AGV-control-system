@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+24 Pin=P8-5
+Added Component: Designator=F?(FUSE)
+Add component (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24 Pin=F?-1
+Added Pin To Net: NetName=+24 Pin=F?-1
+Added Pin To Net: NetName=+24_IN Pin=F?-2
+Added Pin To Net: NetName=+24_IN Pin=F?-2
+Added Pin To Net: NetName=+24_IN Pin=P8-5
+Added Net: Name=+24_IN
+Added Member To Class: ClassName=sch_AGV_Power Member=Component F? F1A
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C9 Old Footprint=CAP_0402 New Footprint=CAP_0805
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker

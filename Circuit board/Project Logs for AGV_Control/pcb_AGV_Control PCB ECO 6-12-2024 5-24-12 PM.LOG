@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=OUT18 Pin=U36-56
+Added Pin To Net: NetName=OUT17 Pin=U36-57
+Added Pin To Net: NetName=OUT16 Pin=U36-58
+Added Pin To Net: NetName=OUT15 Pin=U36-59
+Added Pin To Net: NetName=OUT14 Pin=U36-60
+Added Pin To Net: NetName=OUT13 Pin=U36-61
+Added Pin To Net: NetName=OUT12 Pin=U36-66
+Added Pin To Net: NetName=OUT11 Pin=U36-70
+Added Pin To Net: NetName=OUT10 Pin=U36-71
+Added Room: Name=sch_AGV_ESP
+Added Room: Name=sch_AGV_Header
+Added Room: Name=sch_AGV_Input
+Added Room: Name=sch_AGV_MCU
+Added Room: Name=sch_AGV_Output
+Added Room: Name=sch_AGV_Power
+Added Room: Name=sch_AGV_Speaker
